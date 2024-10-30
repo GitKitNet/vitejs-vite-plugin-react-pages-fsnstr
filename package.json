@@ -25,7 +25,7 @@
     "@vitejs/plugin-react": "^1.1.4",
     "astro": "*",
     "rimraf": "^3.0.2",
-    "serve": "^13.0.2",
+    "serve": "^14.2.4",
     "vite": "^2.9.12",
     "vite-pages-theme-doc": "^3.1.4",
     "vite-plugin-mdx": "^3.5.6",
